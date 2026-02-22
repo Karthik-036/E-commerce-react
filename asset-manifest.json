@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Karthik-036/E-commerce-react.git/static/css/main.c2efd9e6.css",
-    "main.js": "/Karthik-036/E-commerce-react.git/static/js/main.192061c7.js",
-    "index.html": "/Karthik-036/E-commerce-react.git/index.html",
-    "main.c2efd9e6.css.map": "/Karthik-036/E-commerce-react.git/static/css/main.c2efd9e6.css.map",
-    "main.192061c7.js.map": "/Karthik-036/E-commerce-react.git/static/js/main.192061c7.js.map"
+    "main.css": "/E-commerce-react/static/css/main.c2efd9e6.css",
+    "main.js": "/E-commerce-react/static/js/main.192061c7.js",
+    "index.html": "/E-commerce-react/index.html",
+    "main.c2efd9e6.css.map": "/E-commerce-react/static/css/main.c2efd9e6.css.map",
+    "main.192061c7.js.map": "/E-commerce-react/static/js/main.192061c7.js.map"
   },
   "entrypoints": [
     "static/css/main.c2efd9e6.css",

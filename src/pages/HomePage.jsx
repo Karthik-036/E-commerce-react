@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 export default function HomePage() {
   return (
     <div style={styles.container}>
@@ -9,7 +10,7 @@ export default function HomePage() {
           Discover the best deals. Shop smart, shop fast.
         </p>
         <a
-  href="/products"
+  href="#/products"
   style={styles.button}
   onMouseEnter={(e) => {
     e.target.style.transform = "scale(1.1)";

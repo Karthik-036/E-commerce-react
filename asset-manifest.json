@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Karthik-036/E-commerce-react.git/static/css/main.c2efd9e6.css",
+    "main.js": "/Karthik-036/E-commerce-react.git/static/js/main.a395789d.js",
+    "index.html": "/Karthik-036/E-commerce-react.git/index.html",
+    "main.c2efd9e6.css.map": "/Karthik-036/E-commerce-react.git/static/css/main.c2efd9e6.css.map",
+    "main.a395789d.js.map": "/Karthik-036/E-commerce-react.git/static/js/main.a395789d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2efd9e6.css",
+    "static/js/main.a395789d.js"
+  ]
+}

@@ -44,7 +44,7 @@ export default function CartPage() {
 
       <h2 style={{ marginTop: "30px",color: "#fff"}}>Total: ₹{totalPrice.toFixed(2)}</h2>
       <button
-  onClick={() => (window.location.href = "/checkout")}
+  onClick={() => (window.location.href = "/#/checkout")}
   style={{
     padding: "12px 20px",
     backgroundColor: "#007bff",

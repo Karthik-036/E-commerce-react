@@ -3,7 +3,7 @@ import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 
 export default function CheckoutPage() {
-  const { cart, updateQty, removeFromCart } = useCart();
+  const { cart} = useCart();
   const navigate = useNavigate();
 
   const [form, setForm] = useState({
